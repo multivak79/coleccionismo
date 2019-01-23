@@ -8,15 +8,15 @@ comenzar con el plan de desarrollo para que al ultimo un programador comience co
 
 Veamos como sale...
 
-PLAN INICIAL:
-  Definir Objetivos
-  Análisis de requisitos
-  Casos de uso
-  Diseño de clases
-  Propuesta de tecnologia
-  Acuerdo de tecnologia y hosting
-  Refinacion de la Estimación
-  Programación
-  Feedback
-  Conclusiones
-  Publicación
+# PLAN INICIAL:
+ + Definir Objetivos
+ + Análisis de requisitos
+ + Casos de uso
+ + Diseño de clases
+ + Propuesta de tecnologia
+ + Acuerdo de tecnologia y hosting
+ + Refinacion de la Estimación
+ + Programación
+ + Feedback
+ + Conclusiones
+ + Publicación
