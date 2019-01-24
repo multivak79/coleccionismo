@@ -78,20 +78,11 @@ for Software Requirements Specications (IEEE/ANSI 830-1998).
 
 # 2.1.2.1. Objetivos y alcance del sistema
 
-El principal objetivo del módulo a desarrollar es permitir a los usuarios la gestión de los
-datos obtenidos a partir de otros módulos del sistema SCADA DIGICOM. El sistema deberá
-permitir a los usuarios conocer en tiempo real el estado de la red eléctrica de la provincia de
-Tucumán; para ello debe gestionar los datos provenientes de un gran número de equipos de
-medición distribuidos a lo largo de la provincia.
-El usuario deberá conocer el estado actual de cada equipo, permitiéndole tomar decisiones
-sobre las acciones a ejecutar para lograr el correcto funcionamiento de la red. Para esto, también
-debe ser capaz de ejecutar ordenes sobre los equipos.
+
 
 # 2.1.2.2. Defniciones, acrónimos y abreviaturas
 no se han definido de momento
 
 # 2.1.2.3. Descripción general
 
-Esta sección presenta una descripción general del sistema con el n de conocer las funciones
-que debe soportar, los datos asociados, las restricciones impuestas y cualquier otro factor que
-pueda inuir en la construcción del mismo.
+
